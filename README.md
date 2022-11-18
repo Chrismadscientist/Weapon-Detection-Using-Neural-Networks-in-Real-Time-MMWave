@@ -1,3 +1,5 @@
 # Weapon-Detection-Using-Neural-Networks-in-Real-Time-MMWave
 using mmWave technology for Weapon-Detection-Using-Neural-Networks-in-Real-Time
 N-F (near field) high-resolution image focusing technique is proposed. With Millimeter-wave (mmWave) devices, near-field synthetic aperture radar (SAR) imaging is widely used in automotive-mounted SAR imaging concealed threat detection. Current research is mainly confined to the laboratory environment, thus ignoring the adverse effects of the non-ideal experimental environment on imaging and subsequent detection in real scenarios. To address this problem, we propose an optimized Back-Projection Algorithm (BPA) that considers the loss path of signal propagation among space by converting the amplitude factor in the echo model into a beam-weighting. This algorithm is an image focusing algorithm for arbitrary and irregular arrays, and effectively mitigates sparse array imaging ghosts. 
+
+More infomation on Athena's Weapons Detection goto https://athena-security.com
