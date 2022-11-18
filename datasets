@@ -1,8 +1,11 @@
 Datasets
-Knife - [3,641 images]- link + some other found while scrapping the internet.
+Knife - [3,641 images]-http://kt.agh.edu.pl/~matiolanski/KnivesImagesDatabase/
++ some other found while scrapping the internet.
 
-Long Gun - [2,497 images]- link + some other found while scrapping the internet.
+Long Gun - [2,497 images]- link http://www.imfdb.org/wiki/Main_Page
++ some other found while scrapping the internet.
 
-Small Gun - [3,876 images]- link
+Small Gun - https://sci2s.ugr.es/sites/default/files/files/TematicWebSites/WeaponsDetection/BasesDeDatos/Test.zip
+[3,876 images]- link
 
 Total size of dataset: '10,014 images'
